@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 
 import argparse
 import sys, os
@@ -20,7 +20,7 @@ print '''
 | $$$$$$$$| $$       /$$$$$$| $$  | $$| $$      ^ \   /___\  /\ |
 |________/|__/      |______/|__/  |__/|__/         |__|   |__|-"
 
-   Local     File        Inclusion     Tool/Terminal
+    Local    File    Inclusion    Tool
 '''
 
 
